@@ -15,19 +15,30 @@ I am an **emerging Data Engineer** with a strong foundation in **Azure, Databric
 
 ## 💡 Technical Skills
 
-### 📊 Data Engineering & Cloud
-- **Azure Services**: Azure Data Factory (ADF), Azure Databricks, Azure Data Lake (ADL)
-- **Big Data Technologies**: Apache Spark, PySpark, SQLAlchemy, PostgreSQL
-- **Data Pipelines & ETL**: SQL Server Integration Services (SSIS), SSAS, Data Warehouse Development
+### 📊 **Data Engineering & Cloud**
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3B00?style=flat&logo=databricks&logoColor=white) 
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white) 
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-004C97?style=flat&logo=azuredevops&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-004C97?style=flat&logo=microsoft&logoColor=white)
 
-### 🔍 Data Analysis & Visualization
-- **Databases**: SQL Server, PostgreSQL, Django ORM
-- **Data Processing**: Pandas, NumPy
-- **Business Intelligence**: Power BI
+### 🔍 **Data Analysis & Visualization**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-### ⚡ Development & Tools
-- **Backend Development**: FastAPI, Redis, PySide6
-- **Software & Tools**: Microsoft SQL Server Management Studio, Visual Studio (ETL/SSIS), Docker, Git, GitHub, Postman, Argo, Jira
+### ⚡ **Development & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-D32F2F?style=flat&logo=redis&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 🛠️ **Business Intelligence**
+![SSIS](https://img.shields.io/badge/SSIS-003B6F?style=flat&logo=microsoft-visual-studio&logoColor=white) 
+![SSAS](https://img.shields.io/badge/SSAS-003B6F?style=flat&logo=microsoft-visual-studio&logoColor=white)
 
 ---
 
