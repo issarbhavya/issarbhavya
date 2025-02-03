@@ -1,43 +1,83 @@
-### Hi there, I'm Bhavya Issar! 👋  
-Welcome to my GitHub profile! I'm a **Software Developer** with experience in **backend development, API testing, and data analytics**. I enjoy building efficient systems and integrating analytics into backend projects.
+# Bhavya Issar - Emerging Data Engineer
+
+![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)
 
 ## 🚀 About Me
-- 🔹 **Current Work**: Working on APIs, Redis, ETL processes, and client onboarding solutions.
-- 🔹 **Interests**: GitHub projects, cryptocurrency, Zerodha/Kite APIs.
-- 🔹 **Tech Stack**: Python, SQL, Azure, Redis, Git, Data Engineering.
+I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. Currently working as a **Software Engineer** at Affinsys AI, I am actively developing scalable **data solutions, optimizing storage, and managing data workflows**. My experience in **data engineering, analytics, and cloud technologies** allows me to build efficient and scalable data architectures.
+
+📍 **Location:** India  
+📧 **Email:** [issarbhavya13@gmail.com](mailto:issarbhavya13@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/bhavya-issar](https://www.linkedin.com/in/bhavya-issar-ab2116239/)  
+💻 **GitHub:** [github.com/issarbhavya](https://github.com/issarbhavya)  
 
 ---
 
-## 📊 GitHub Stats
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavya-issar&show_icons=true&theme=radical)
+## 💡 Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-issar&layout=compact&theme=radical)
+### 📊 Data Engineering & Cloud
+- **Azure Services**: Azure Data Factory (ADF), Azure Databricks, Azure Data Lake (ADL)
+- **Big Data Technologies**: Apache Spark, PySpark, SQL Alchemy, PostgreSQL
+- **Data Pipelines & ETL**: SQL Server Integration Services (SSIS), SSAS, Data Warehouse Development
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavya-issar&theme=radical)
+### 🔍 Data Analysis & Visualization
+- **Databases**: SQL Server, PostgreSQL, Django ORM
+- **Data Processing**: Pandas, NumPy
+- **Business Intelligence**: Power BI
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bhavya-issar&theme=algolia)
-
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ⚡ Development & Tools
+- **Backend Development**: FastAPI, Redis, PySide6
+- **Software & Tools**: Microsoft SQL Server Management Studio, Visual Studio (ETL/SSIS), Docker, Git, GitHub, Postman, Argo, Jira
 
 ---
 
-## 🎯 Featured Projects
-- 🔹 **[SSIS Report Automation](https://github.com/issarbhavya/SSIS_REPORT_AUTOMATION_PACKAGE_PROJECT_forCSVfiles_SQL)** – Automating ETL pipelines using SSIS & SQL Server.
-- 🔹 **[Opus - Mobile Robotics Infra](https://github.com/your-project-link)** – A platform for managing drones and sensors.
-- 🔹 **[Kite API Analytics](https://github.com/your-project-link)** – Real-time analytics using Zerodha APIs.
+## 📌 Key Projects
+
+### 🔹 **Azure, Databricks & Spark for Data Engineers**
+📌 **Tech Stack**: Azure Data Factory, Databricks, Data Lake, PySpark, Power BI
+- Developed a **Formula 1 Data Pipeline** leveraging **Azure services** for ETL and analytics.
+- Built **incremental data pipelines** for handling real-time data ingestion and transformations.
+- Integrated **Databricks with Power BI** to create interactive dashboards and reports.
+
+🔗 [GitHub Repository](https://github.com/issarbhavya/Formula1-Azure-Databricks)
 
 ---
 
-## 🔗 Connect With Me
-📫 Reach me at:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavya_Issar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavya-issar/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Bhavya_Issar-black?style=for-the-badge&logo=github)](https://github.com/bhavya-issar/)  
+### 🔹 **End-to-End Data Warehouse Implementation (SSIS, SSAS & Power BI)**
+📌 **Tech Stack**: SQL Server, SSIS, SSAS, Power BI
+- Designed an **on-premise SQL data warehouse**, integrated with **ETL pipelines**.
+- Created **SSAS tabular models** to optimize analytical queries.
+- Built **Power BI dashboards** for real-time business intelligence insights.
 
-![Visitors](https://komarev.com/ghpvc/?username=bhavya-issar&color=blue)
+🔗 [GitHub Repository](https://github.com/issarbhavya/SSIS_SSAS_PowerBI_Project)
+
+---
+
+### 🔹 **Optimizing Solar Panel Energy Output with Data Science**
+📌 **Tech Stack**: CNN, PyTorch, TensorFlow, Azure ML
+- Developed a **CNN model** for object detection in solar panels.
+- Analyzed **energy efficiency metrics** to optimize panel cleaning schedules.
+- Provided insights for **cost-effective maintenance** using **data-driven decisions**.
+
+🔗 [GitHub Repository](https://github.com/issarbhavya/Solar-Panel-Data-Science)
+
+---
+
+## 🏆 Certifications
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Azure Databricks & Spark for Data Engineers**
+- **Spark Fundamentals**
+- **Big Data Foundation**
+- **AWS Machine Learning Foundations**
+- **TensorFlow Developer Certificate**
+- **SQL & Relational Databases**
+
+---
+
+## 🎯 Future Goals
+✔️ Expand expertise in **cloud data architecture & real-time analytics**.  
+✔️ Build **scalable data engineering pipelines** leveraging **Azure, Spark & Databricks**.  
+✔️ Contribute to **open-source projects** focused on **data infrastructure**.  
+
+---
+
+⭐ **Let's connect!** If you're interested in **Data Engineering, Cloud Computing, or Big Data**, feel free to reach out or check my GitHub for more projects. 🚀
