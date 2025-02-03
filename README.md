@@ -3,7 +3,7 @@
 ![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)
 
 ## 🚀 About Me
-I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**. Currently working as a **Software Engineer at Affinsys AI**. I am actively developing scalable **data solutions, optimizing storage, and managing data workflows**.
+I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**. Currently working as a **Software Engineer at Affinsys AI**, I am actively developing scalable **data solutions**, optimizing storage, and managing data workflows.
 
 📍 **Location:** India  
 📧 **Email:** [issarbhavya13@gmail.com](mailto:issarbhavya13@gmail.com)  
@@ -12,11 +12,24 @@ I am an **emerging Data Engineer** with a strong foundation in **Azure, Databric
 
 ---
 
+## 🎓 Certifications & Badges
+
+![Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BhavyaIssar-9809/A00C8B46970210CC?sharingId)  
+[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/BhavyaIssar-9809/A00C8B46970210CC?sharingId)
+
+![LinkedIn Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)  
+[LinkedIn Profile Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)
+
+![LinkedIn Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)  
+[LinkedIn Profile Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)
+
+---
+
 ## 💡 Technical Skills
 
 ### 📊 Data Engineering & Cloud
 - **Azure Services**: Azure Data Factory (ADF), Azure Databricks, Azure Data Lake (ADL)
-- **Big Data Technologies**: Apache Spark, PySpark, SQL Alchemy, PostgreSQL
+- **Big Data Technologies**: Apache Spark, PySpark, SQLAlchemy, PostgreSQL
 - **Data Pipelines & ETL**: SQL Server Integration Services (SSIS), SSAS, Data Warehouse Development
 
 ### 🔍 Data Analysis & Visualization
@@ -27,28 +40,6 @@ I am an **emerging Data Engineer** with a strong foundation in **Azure, Databric
 ### ⚡ Development & Tools
 - **Backend Development**: FastAPI, Redis, PySide6
 - **Software & Tools**: Microsoft SQL Server Management Studio, Visual Studio (ETL/SSIS), Docker, Git, GitHub, Postman, Argo, Jira
-
----
-
-## 📌 Key Projects
-
-### 🔹 **Azure, Databricks & Spark for Data Engineers**
-📌 **Tech Stack**: Azure Data Factory, Databricks, Data Lake, PySpark, Power BI
-- Developed a **Formula 1 Data Pipeline** leveraging **Azure services** for ETL and analytics.
-- Built **incremental data pipelines** for handling real-time data ingestion and transformations.
-- Integrated **Databricks with Power BI** to create interactive dashboards and reports.
-
-🔗 [GitHub Repository](https://github.com/issarbhavya/Formula1-Azure-Databricks)
-
----
-
-### 🔹 **End-to-End Data Warehouse Implementation (SSIS, SSAS & Power BI)**
-📌 **Tech Stack**: SQL Server, SSIS, SSAS, Power BI
-- Designed an **on-premise SQL data warehouse**, integrated with **ETL pipelines**.
-- Created **SSAS tabular models** to optimize analytical queries.
-- Built **Power BI dashboards** for real-time business intelligence insights.
-
-🔗 [GitHub Repository](https://github.com/issarbhavya/SSIS_SSAS_PowerBI_Project)
 
 ---
 
