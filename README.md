@@ -1,9 +1,7 @@
 # Bhavya Issar - Emerging Data Engineer
 
 ![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)  
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="140" height="140">  
-![Big Data Foundations](https://images.credly.com/size/140x140/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob)
-![Hadoop Data Access](https://images.credly.com/size/140x140/images/dc7b7e5f-2417-4b7a-a335-15a542f5ea6e/blob)  
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="140" height="140">  ![Big Data Foundations](https://images.credly.com/size/140x140/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob) ![Hadoop Data Access](https://images.credly.com/size/140x140/images/dc7b7e5f-2417-4b7a-a335-15a542f5ea6e/blob)  
 
 ## 🚀 About Me
 I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**. Currently working as a **Software Engineer at Affinsys AI**, I am actively developing scalable **data solutions**, optimizing storage, and managing data workflows.
