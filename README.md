@@ -3,7 +3,7 @@
 ![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)
 
 ## 🚀 About Me
-I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. Currently working as a **Software Engineer** at Affinsys AI, I am actively developing scalable **data solutions, optimizing storage, and managing data workflows**. My experience in **data engineering, analytics, and cloud technologies** allows me to build efficient and scalable data architectures. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**.
+I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**. Currently working as a **Software Engineer at Affinsys AI**. I am actively developing scalable **data solutions, optimizing storage, and managing data workflows**.
 
 📍 **Location:** India  
 📧 **Email:** [issarbhavya13@gmail.com](mailto:issarbhavya13@gmail.com)  
@@ -49,33 +49,6 @@ I am an **emerging Data Engineer** with a strong foundation in **Azure, Databric
 - Built **Power BI dashboards** for real-time business intelligence insights.
 
 🔗 [GitHub Repository](https://github.com/issarbhavya/SSIS_SSAS_PowerBI_Project)
-
----
-
-### 🔹 **Optimizing Solar Panel Energy Output with Data Science**
-📌 **Tech Stack**: CNN, PyTorch, TensorFlow, Azure ML
-- Developed a **CNN model** for object detection in solar panels.
-- Analyzed **energy efficiency metrics** to optimize panel cleaning schedules.
-- Provided insights for **cost-effective maintenance** using **data-driven decisions**.
-
-🔗 [GitHub Repository](https://github.com/issarbhavya/Solar-Panel-Data-Science)
-
----
-
-## 📈 Work Experience
-
-### 🏢 **Affinsys AI** - *Software Engineer (Sept 2024 – Present)*
-- Built **self-onboarding platforms** for foreign banking clients in **Africa & South Asia**.
-- **Optimized data storage** by converting image formats using **Magic & Pillow**.
-- Managed **client-specific workflows** integrating with **Core Banking Systems (CBS)**.
-
-### 🏢 **Vayut Autonomous Systems** - *Junior Data Scientist (July – Dec 2023)*
-- Developed **CNN-based object detection** to track individual **solar panels**.
-- Analyzed **energy efficiency** metrics to optimize **panel cleaning schedules**.
-
-### 🏢 **Opus Robotics** - *Software Developer Intern (Jan – June 2023)*
-- Built a **platform for managing drones & sensors** using **PySide6 & SQL**.
-- Created an **interactive dashboard** for real-time monitoring.
 
 ---
 
