@@ -1,6 +1,9 @@
 # Bhavya Issar - Emerging Data Engineer
 
-![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)
+![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)  
+![Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BhavyaIssar-9809/A00C8B46970210CC?sharingId)  
+![LinkedIn Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)  
+![LinkedIn Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)  
 
 ## 🚀 About Me
 I am an **emerging Data Engineer** with a strong foundation in **Azure, Databricks, SQL, and ETL pipelines**. I am also **Microsoft Certified: Azure Fundamentals (AZ-900)**. Currently working as a **Software Engineer at Affinsys AI**, I am actively developing scalable **data solutions**, optimizing storage, and managing data workflows.
@@ -9,19 +12,6 @@ I am an **emerging Data Engineer** with a strong foundation in **Azure, Databric
 📧 **Email:** [issarbhavya13@gmail.com](mailto:issarbhavya13@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/bhavya-issar](https://www.linkedin.com/in/bhavya-issar-ab2116239/)  
 💻 **GitHub:** [github.com/issarbhavya](https://github.com/issarbhavya)  
-
----
-
-## 🎓 Certifications & Badges
-
-![Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BhavyaIssar-9809/A00C8B46970210CC?sharingId)  
-[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/BhavyaIssar-9809/A00C8B46970210CC?sharingId)
-
-![LinkedIn Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)  
-[LinkedIn Profile Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)
-
-![LinkedIn Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)  
-[LinkedIn Profile Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)
 
 ---
 
