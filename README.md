@@ -2,7 +2,10 @@
 
 ![Data Engineer | Azure | Databricks | SQL](https://img.shields.io/badge/Data%20Engineer-Azure%20%7C%20Databricks%20%7C%20SQL-blue)  
 ![Azure Fundamentals Badge](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20%28AZ-900%29-blue)
-![LinkedIn Badge 1](https://www.credly.com/badges/53e581d9-9bb7-43d5-8c53-9dfee71ca14b/linked_in_profile)  
+
+![Big Data Foundations](https://images.credly.com/size/340x340/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob)
+
+
 ![LinkedIn Badge 2](https://www.credly.com/badges/8959897b-2a64-4c2f-a7e8-c1066707506d/linked_in_profile)  
 
 ## 🚀 About Me
